@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Harish Banjara 👋
 
-<!--
-**codewharish/codewharish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | HTML, CSS, JavaScript  
+📊 Interested in Data Analysis & Web Development  
+🚀 Currently working on real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML5, CSS3
+- JavaScript
+- Git & GitHub
+- Basic Python (Data Analysis)
+
+---
+
+## 📂 Projects
+- 🔗 Project Frontend – Responsive website
+- 🔗 Assignment Frontend – UI practice
+- 🔗 HR Analysis – Data insights using Jupyter
+
+---
+
+## 📫 Contact Me
+- Email: your-email@example.com
+- LinkedIn: (add later)
+
+---
+
+⭐ Always learning and building!
